@@ -1,0 +1,12 @@
+{
+  "name": "fcc-rwd-project-4-build-a-technical-documentation-webpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": ""
+  },
+  "keywords": [],
+  "author": "Rinil Kunhiraman",
+  "license": "ISC"
+}
